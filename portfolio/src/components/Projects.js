@@ -39,7 +39,7 @@ export default function Projects() {
               component="img"
               alt="screenshot"
               height="180"
-              image="https://user-images.githubusercontent.com/17996569/136119905-1220177a-7d03-4391-a9c2-a37f239bf693.png"
+              image="https://i.imgur.com/G2yUPpD.png"
             />
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">
@@ -52,7 +52,7 @@ export default function Projects() {
             </CardContent>
             <CardActions>
               <Button size="large">
-                <a href="https://ryanlopez12.github.io/ucd/">Click Here!</a>
+                <a href="https://adambowers09.github.io/CodeRefactor-Horiseon/">Click Here!</a>
               </Button>
             </CardActions>
           </Card>
@@ -74,20 +74,19 @@ export default function Projects() {
               component="img"
               alt="screenshot"
               height="180"
-              image="https://ryanlopez12.github.io/rlopez-portfolio/assets/robotsg.png"
+              image="https://i.imgur.com/jZBWbM7.png"
             />
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">
-                Robot Gladiators!
+                Password Generator!
               </Typography>
               <Typography variant="body2" color="text.secondary">
-                Created 2 robots with life points and fight them to the
-                death...through text.
+                Website will generate a secure passwore using confirms and prompts from a defined length that can include lowercase, uppercase, numbers, and symbols.
               </Typography>
             </CardContent>
             <CardActions>
               <Button size="large">
-                <a href="https://ryanlopez12.github.io/robot-gladiators/">
+                <a href="https://adambowers09.github.io/password-generator/">
                   Click Here!
                 </a>
               </Button>
@@ -123,7 +122,7 @@ export default function Projects() {
             </CardContent>
             <CardActions>
               <Button size="large">
-                <a href="https://ryanlopez12.github.io/run-buddy/">
+                <a href="https://adambowers09.github.io/run-buddy/">
                   Click Here!
                 </a>
               </Button>
@@ -145,16 +144,14 @@ export default function Projects() {
             component="img"
             alt="screenshot"
             height="180"
-            image="https://i.imgur.com/UxeRaiW.png"
+            image="https://i.imgur.com/Bs9joko.png"
           />
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
-              Console This!
+              Dinner Around the World!
             </Typography>
             <Typography variant="body2" color="text.secondary">
-              Project 1: Can't find a game console anywhwere? Use api's to
-              create search strings and query results from Ebay or Bestbuy. Then
-              use the google maps api to then locate and go get one!
+              Project 1: Simple web page that allows users to select different food/drink recipes.  Select cuisines from all over the world and liquor from a selective choice.
             </Typography>
           </CardContent>
           <CardActions>
@@ -178,22 +175,19 @@ export default function Projects() {
             component="img"
             alt="screenshot"
             height="180"
-            image="https://i.imgur.com/DmypBC4.png"
+            image="https://i.imgur.com/i7R2nV2.png"
           />
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
-              Quick Quack Quiz
+              Work Day Scheduler
             </Typography>
             <Typography variant="body2" color="text.secondary">
-              Project 2: Quick Quack Quiz is a quiz creator for everyone. Create
-              your user profile and start creating quizzes today. Stored in
-              online storage your user profile retains all of your previous
-              quizzes or the ones you comment on!
+              Application allows users to save tasks to be performed over a standard workday.
             </Typography>
           </CardContent>
           <CardActions>
             <Button size="large">
-              <a href="https://quick-quack-quiz.herokuapp.com/">Click Here!</a>
+              <a href="https://adambowers09.github.io/Work-Day-Scheduler/">Click Here!</a>
             </Button>
           </CardActions>
         </Card>
@@ -212,22 +206,19 @@ export default function Projects() {
             component="img"
             alt="screenshot"
             height="180"
-            image="https://i.imgur.com/JLOLYKt.jpg"
+            image="https://i.imgur.com/1sjAOnv.jpg"
           />
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
-              Plenty.
+              Weather Dashboard
             </Typography>
             <Typography variant="body2" color="text.secondary">
-              Project 3: Can't find something to eat that's in the pantry? Reach
-              for Plenty and search for the items you already have and create a
-              masterpiece! Multiple queries results from apis to find more
-              options!
+              Weather dashboard application that displays current weather conditions, five day forcasts, UV index, wind speed, humidity, and temperature from searched cities.
             </Typography>
           </CardContent>
           <CardActions>
             <Button size="large">
-              <a href="https://plenty-in-the-pantry.herokuapp.com/">
+              <a href="https://adambowers09.github.io/weatherdashboard/">
                 Click Here!
               </a>
             </Button>
