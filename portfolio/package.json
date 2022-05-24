@@ -1,4 +1,5 @@
 {
+  "homepage": "http://adambowers09.github.io/react-portfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -16,6 +17,7 @@
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
     "jquery": "^3.6.0",
+    "node": "^17.7.2",
     "nodemailer": "^6.7.5",
     "nodemon": "^2.0.16",
     "popper.js": "^1.16.1",
@@ -26,6 +28,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -48,5 +52,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
