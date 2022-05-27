@@ -14,7 +14,7 @@ Fork the repo and run `npm i` to install dependencies and `npm start` to start.
 
 [Link to GitHub Repo](https://github.com/adambowers09/react-portfolio)
 
-[Link to deployed app]()
+[Link to deployed app](https://adambowers09.github.io/react-portfolio/)
 
 ## Screenshot
 
